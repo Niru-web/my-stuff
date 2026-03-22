@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9726eae7edf74939",
+            "id": "051089e9cd48f93b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap/IDK.md",
+                "file": "DataScience_AI/01_Mathematics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDK"
+              "title": "01_Mathematics"
             }
           }
         ]
@@ -194,43 +194,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "ba65296f44ef307b",
+  "active": "051089e9cd48f93b",
   "lastOpenFiles": [
+    "DataScience_AI/00_MAIN_ROADMAP.md",
+    "aptitude_vault/00_Master_Index.md",
+    "DataScience_AI/01_Mathematics.md",
+    "DataScience_KB/~$_Mathematics.docx",
     "Roadmap/IDK.md",
-    "Roadmap",
+    "DataScience_KB/09_MLOps.docx",
+    "DataScience_KB/08_Deep_Learning.docx",
+    "DataScience_KB/07_Machine_Learning.docx",
+    "DataScience_KB/06_Econometrics.docx",
+    "DataScience_KB/05_Exploratory_Data_Analysis.docx",
+    "DataScience_KB/04_SQL_for_Data_Analysis.docx",
+    "DataScience_KB/03_Python_Programming.docx",
+    "DataScience_KB/02_Statistics.docx",
+    "DataScience_KB/01_Mathematics.docx",
+    "Welcome.md",
     "Untitled.canvas",
-    "Untitled.base",
     "DSA_Vault/Algorithms/2D Grid DP.md",
     "Untitled.md",
     "DSA_Vault/DSA Problem Bank.md",
     "DSA_Vault/Algorithms/Two Pointers.md",
     "DSA_Vault/DataStructures/Array.md",
     "aptitude_vault/VM_00_Vedic_Index.md",
-    "aptitude_vault/00_Master_Index.md",
-    "obsidian-sql-vault/16 - NULL Handling.md",
-    "obsidian-sql-vault/20 - Subqueries.md",
-    "obsidian-sql-vault/19 - Regex.md",
-    "obsidian-sql-vault/25 - Indexes.md",
-    "obsidian-sql-vault/34 - Data Engineering Projects.md",
-    "obsidian-sql-vault/38 - Query Optimization Patterns.md",
-    "obsidian-sql-vault/40 - Data Engineering Concepts.md",
-    "obsidian-sql-vault/42 - Company Interview Prep.md",
-    "obsidian-sql-vault/README.md",
-    "obsidian-sql-vault/28 - COMMIT ROLLBACK.md",
-    "obsidian-sql-vault/30 - ACID Properties.md",
-    "obsidian-sql-vault/32 - Slowly Changing Dimensions.md",
-    "obsidian-sql-vault/29 - GRANT REVOKE.md",
-    "obsidian-sql-vault/11 - Keys.md",
-    "obsidian-sql-vault/26 - EXPLAIN ANALYZE.md",
-    "obsidian-sql-vault/01 - Introduction.md",
-    "obsidian-sql-vault/33 - Python JDBC Connectivity.md",
-    "obsidian-sql-vault/39 - SQL Practice Problems.md",
-    "obsidian-sql-vault",
-    "DSA_Vault/Algorithms",
-    "DSA_Vault/Theory",
-    "DSA_Vault/DataStructures",
-    "DSA_Vault/Templates",
-    "DSA_Vault",
-    "aptitude_vault"
+    "sql-vault/16 - NULL Handling.md",
+    "sql-vault/20 - Subqueries.md",
+    "sql-vault/19 - Regex.md",
+    "sql-vault/25 - Indexes.md",
+    "sql-vault/34 - Data Engineering Projects.md",
+    "sql-vault/38 - Query Optimization Patterns.md",
+    "sql-vault/40 - Data Engineering Concepts.md",
+    "sql-vault/42 - Company Interview Prep.md",
+    "sql-vault/README.md",
+    "sql-vault/28 - COMMIT ROLLBACK.md",
+    "sql-vault/30 - ACID Properties.md",
+    "sql-vault/32 - Slowly Changing Dimensions.md",
+    "sql-vault/29 - GRANT REVOKE.md",
+    "sql-vault/11 - Keys.md",
+    "sql-vault/26 - EXPLAIN ANALYZE.md"
   ]
 }
