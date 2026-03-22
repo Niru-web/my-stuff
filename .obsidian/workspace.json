@@ -11,10 +11,14 @@
             "id": "9726eae7edf74939",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap/IDK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IDK"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,8 +194,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff008539298dc181",
+  "active": "ba65296f44ef307b",
   "lastOpenFiles": [
+    "Roadmap/IDK.md",
+    "Roadmap",
     "Untitled.canvas",
     "Untitled.base",
     "DSA_Vault/Algorithms/2D Grid DP.md",
