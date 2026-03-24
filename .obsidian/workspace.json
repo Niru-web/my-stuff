@@ -196,9 +196,14 @@
   },
   "active": "051089e9cd48f93b",
   "lastOpenFiles": [
+    "DataScience_AI/03_Python_Programming.md",
+    "DataScience_AI/04_SQL_for_Data_Analysis.md",
+    "DataScience_AI/01_Mathematics.md",
+    "DataScience_AI/08_Deep_Learning.md",
+    "DataScience_AI/05_Exploratory_Data_Analysis.md",
+    "DataScience_AI/02_Statistics.md",
     "DataScience_AI/00_MAIN_ROADMAP.md",
     "aptitude_vault/00_Master_Index.md",
-    "DataScience_AI/01_Mathematics.md",
     "DataScience_KB/~$_Mathematics.docx",
     "Roadmap/IDK.md",
     "DataScience_KB/09_MLOps.docx",
@@ -227,11 +232,6 @@
     "sql-vault/40 - Data Engineering Concepts.md",
     "sql-vault/42 - Company Interview Prep.md",
     "sql-vault/README.md",
-    "sql-vault/28 - COMMIT ROLLBACK.md",
-    "sql-vault/30 - ACID Properties.md",
-    "sql-vault/32 - Slowly Changing Dimensions.md",
-    "sql-vault/29 - GRANT REVOKE.md",
-    "sql-vault/11 - Keys.md",
-    "sql-vault/26 - EXPLAIN ANALYZE.md"
+    "sql-vault/28 - COMMIT ROLLBACK.md"
   ]
 }
