@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "051089e9cd48f93b",
+            "id": "6c5f0199abde4404",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aptitude_vault/00_Master_Index.md",
+                "file": "Daily Notes/Mathametics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Master_Index"
+              "title": "Mathametics"
+            }
+          },
+          {
+            "id": "d8ab0c537fd95217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data analytics & AI roadmap/01_Mathematics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Mathematics"
             }
           }
         ]
@@ -40,7 +54,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -194,16 +208,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "051089e9cd48f93b",
+  "active": "6c5f0199abde4404",
   "lastOpenFiles": [
-    "DataScience_AI/01_Mathematics.md",
-    "DataScience_AI/02_Statistics.md",
-    "DataScience_AI/03_Python_Programming.md",
-    "DataScience_AI/04_SQL_for_Data_Analysis.md",
-    "DataScience_AI/08_Deep_Learning.md",
-    "DataScience_AI/05_Exploratory_Data_Analysis.md",
-    "DataScience_AI/00_MAIN_ROADMAP.md",
+    "sql-vault/05 - DDL DML TCL DCL.md",
+    "Daily Notes/Mathametics.md",
+    "Data analytics & AI roadmap/01_Mathematics.md",
+    "Data analytics & AI roadmap/00_MAIN_ROADMAP.md",
+    "2026-03-24.md",
+    "Untitled.md",
+    "Welcome.md",
+    "Daily Notes/Untitled.canvas",
+    "Daily Notes/Untitled.base",
+    "Daily Notes",
+    "Roadmap/Untitled.md",
+    "Data analytics & AI roadmap/03_Python_Programming.md",
     "aptitude_vault/00_Master_Index.md",
+    "Data analytics & AI roadmap/02_Statistics.md",
+    "Data analytics & AI roadmap/04_SQL_for_Data_Analysis.md",
+    "Data analytics & AI roadmap/08_Deep_Learning.md",
+    "Data analytics & AI roadmap/05_Exploratory_Data_Analysis.md",
     "DataScience_KB/~$_Mathematics.docx",
     "Roadmap/IDK.md",
     "DataScience_KB/09_MLOps.docx",
@@ -213,12 +236,8 @@
     "DataScience_KB/05_Exploratory_Data_Analysis.docx",
     "DataScience_KB/04_SQL_for_Data_Analysis.docx",
     "DataScience_KB/03_Python_Programming.docx",
-    "DataScience_KB/02_Statistics.docx",
-    "DataScience_KB/01_Mathematics.docx",
-    "Welcome.md",
     "Untitled.canvas",
     "DSA_Vault/Algorithms/2D Grid DP.md",
-    "Untitled.md",
     "DSA_Vault/DSA Problem Bank.md",
     "DSA_Vault/Algorithms/Two Pointers.md",
     "DSA_Vault/DataStructures/Array.md",
@@ -228,10 +247,6 @@
     "sql-vault/19 - Regex.md",
     "sql-vault/25 - Indexes.md",
     "sql-vault/34 - Data Engineering Projects.md",
-    "sql-vault/38 - Query Optimization Patterns.md",
-    "sql-vault/40 - Data Engineering Concepts.md",
-    "sql-vault/42 - Company Interview Prep.md",
-    "sql-vault/README.md",
-    "sql-vault/28 - COMMIT ROLLBACK.md"
+    "sql-vault/38 - Query Optimization Patterns.md"
   ]
 }
