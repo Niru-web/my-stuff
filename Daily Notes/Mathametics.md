@@ -1,3 +1,3 @@
-Andha data Data Analytics & AI Engineering Roadmap 
+Andha  Data Analytics & AI Engineering Roadmap 
 
-LINEAR EXPRESSION
+Indha LINEAR EXPRESSION ellamh concept liyum iruku as data science la iruku and analytics la iruku complete maths formula iruku
