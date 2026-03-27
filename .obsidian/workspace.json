@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Mathametics.md",
+                "file": "GEN AI ENGINERRING/GEN AI ENGINEERING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathametics"
+              "title": "GEN AI ENGINEERING"
             }
           },
           {
@@ -210,8 +210,10 @@
   },
   "active": "6c5f0199abde4404",
   "lastOpenFiles": [
-    "Data analytics & AI roadmap/01_Mathematics.md",
     "Daily Notes/Mathametics.md",
+    "GEN AI ENGINERRING/GEN AI ENGINEERING.md",
+    "GEN AI ENGINERRING",
+    "Data analytics & AI roadmap/01_Mathematics.md",
     "sql-vault/05 - DDL DML TCL DCL.md",
     "Data analytics & AI roadmap/00_MAIN_ROADMAP.md",
     "2026-03-24.md",
@@ -235,7 +237,6 @@
     "DataScience_KB/06_Econometrics.docx",
     "DataScience_KB/05_Exploratory_Data_Analysis.docx",
     "DataScience_KB/04_SQL_for_Data_Analysis.docx",
-    "DataScience_KB/03_Python_Programming.docx",
     "Untitled.canvas",
     "DSA_Vault/Algorithms/2D Grid DP.md",
     "DSA_Vault/DSA Problem Bank.md",
@@ -246,7 +247,6 @@
     "sql-vault/20 - Subqueries.md",
     "sql-vault/19 - Regex.md",
     "sql-vault/25 - Indexes.md",
-    "sql-vault/34 - Data Engineering Projects.md",
-    "sql-vault/38 - Query Optimization Patterns.md"
+    "sql-vault/34 - Data Engineering Projects.md"
   ]
 }
