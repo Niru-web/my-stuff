@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c5f0199abde4404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GEN AI ENGINERRING/GEN AI ENGINEERING.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GEN AI ENGINEERING"
-            }
-          },
-          {
             "id": "d8ab0c537fd95217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data analytics & AI roadmap/01_Mathematics.md",
+                "file": "Daily Notes/Mathametics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Mathematics"
+              "title": "Mathametics"
             }
           }
         ]
@@ -208,12 +194,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "6c5f0199abde4404",
+  "active": "d8ab0c537fd95217",
   "lastOpenFiles": [
+    "Data analytics & AI roadmap/01_Mathematics.md",
     "Daily Notes/Mathametics.md",
+    "Data analytics & AI roadmap/09_MLOps.md",
     "GEN AI ENGINERRING/GEN AI ENGINEERING.md",
     "GEN AI ENGINERRING",
-    "Data analytics & AI roadmap/01_Mathematics.md",
     "sql-vault/05 - DDL DML TCL DCL.md",
     "Data analytics & AI roadmap/00_MAIN_ROADMAP.md",
     "2026-03-24.md",
@@ -246,7 +233,6 @@
     "sql-vault/16 - NULL Handling.md",
     "sql-vault/20 - Subqueries.md",
     "sql-vault/19 - Regex.md",
-    "sql-vault/25 - Indexes.md",
-    "sql-vault/34 - Data Engineering Projects.md"
+    "sql-vault/25 - Indexes.md"
   ]
 }
