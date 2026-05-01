@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Mathametics.md",
+                "file": "DSA_Vault/Theory/Big-O Notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathametics"
+              "title": "Big-O Notation"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "d8ab0c537fd95217",
   "lastOpenFiles": [
-    "Data analytics & AI roadmap/01_Mathematics.md",
+    "DSA_Vault/DSA_Index.md",
     "Daily Notes/Mathametics.md",
+    "Data analytics & AI roadmap/01_Mathematics.md",
     "Data analytics & AI roadmap/09_MLOps.md",
     "GEN AI ENGINERRING/GEN AI ENGINEERING.md",
     "GEN AI ENGINERRING",
@@ -232,7 +233,6 @@
     "aptitude_vault/VM_00_Vedic_Index.md",
     "sql-vault/16 - NULL Handling.md",
     "sql-vault/20 - Subqueries.md",
-    "sql-vault/19 - Regex.md",
-    "sql-vault/25 - Indexes.md"
+    "sql-vault/19 - Regex.md"
   ]
 }
